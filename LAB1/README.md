@@ -17,4 +17,5 @@
         * [leaf1, Node B]
     * Rather than 
         * [leaf0, Node A]
-![image](https://github.com/Aaron7noraA/NYCU_BlockChain/blob/master/LAB1/tree.jpg)
+
+* ![image](https://github.com/Aaron7noraA/NYCU_BlockChain/blob/master/LAB1/tree.jpg)
