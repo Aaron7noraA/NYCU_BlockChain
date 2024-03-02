@@ -3,7 +3,7 @@
 ## Implementation
 
 ### Code
-- sample/proof.py
+- sample/prover.py
 - sample/verifier.py
 - sample/proof-for-leaf-95 (The answer of idx 95)
 
