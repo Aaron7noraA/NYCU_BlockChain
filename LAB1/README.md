@@ -13,4 +13,3 @@
 
 ### Something learned from this LAB
 
-![image](https://github.com/Aaron7noraA/NYCU_BlockChain/blob/master/LAB1/tree.jpg)
